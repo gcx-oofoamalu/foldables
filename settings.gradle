@@ -1,0 +1,3 @@
+rootProject.name = "FoldableApp"
+include ':app'
+include ':mvvm'
